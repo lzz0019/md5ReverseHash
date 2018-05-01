@@ -46,7 +46,7 @@
  		<li><a href="makepin.php">Make an MD5 PIN</a></li>
  		<li><a href="md5.php">MD5 Encoder</a></li>
  		<li><a href="https://www.wa4e.com/assn/crack/" target="_blank">Specification for this assignment</a></li>
- 		<li><a href="https://github.com/csev/php-intro/tree/master/code/crack" target="_blank">Source code similar to this application</a></li>
+ 		<li><a href="https://github.com/lzz0019/md5ReverseHash" target="_blank">Source code similar to this application</a></li>
  	</ul>
  </body>
  </html>
